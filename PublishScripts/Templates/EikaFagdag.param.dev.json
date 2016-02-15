@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "fagdageika"
+  },
+  "hostingPlanName": {
+    "value": "Default0"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Basic"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "164f875e-de0d-4da9-a96e-bcd417fb6779"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-NorthEurope"
+  }
+}
